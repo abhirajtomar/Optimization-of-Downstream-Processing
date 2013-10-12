@@ -1,0 +1,80 @@
+***Optimization Process***
+---Harvest Volume Range Entered---
+Harvest Volume Upper Limit : 1.0
+Harvest Volume Lower Limit : 0.0
+
+Product Concentration Upper Limit :1.0
+Product Concentration Lower Limit :0.0
+
+***Input for Capture Process***
+---Resin Volume Range Entered---
+Resin Volume Upper Limit : 0.04
+Resin Volume Lower Limit : 0.02
+
+Column Diameter Upper Limit :1.8
+Column Diameter Lower Limit :1.5
+
+Volumetric Flow Rate Upper Limit : 2.0
+Volumetric Flow Rate Lower Limit : 1.0
+
+***OUTPUT of CAPTURE Process***
+Optimum Harvest Volume:0.9999999999999999
+Optimum Resin Volume:0.03800000000000001
+No. of cycles:0.31249999999999983
+Equilibration 4 CVs:0.39583333333333326
+loading time:8.333333333333332
+washing time:0.39583333333333326
+elution 3 CV's time:0.29687499999999994
+Regeneration 2 CV's time:0.19791666666666663
+Product of this Process:0.8074999999999999
+Total Time:9.619791666666666
+
+***Input for Intermediate Process***
+---Resin Volume Range Entered---
+Resin Volume Upper Limit : 0.04
+Resin Volume Lower Limit : 0.02
+
+Column Diameter Upper Limit :1.8
+Column Diameter Lower Limit :1.5
+
+Volumetric Flow Rate Upper Limit : 1.5
+Volumetric Flow Rate Lower Limit : 1.0
+
+***OUTPUT of Intermediate Processing Stage***
+Optimum Resin Volume:0.026000000536441803
+No. of cycles:1.1945266025730115
+Equilibration 4 CVs:1.3803418254920239
+loading time:2.243055466424539
+washing time:1.3803418254920239
+elution 3 CV's time:3.450854365954141
+Regeneration 2 CV's time:0.6901709127460119
+Product of this Process:0.7267499999999999
+Total Time:9.144764396108739
+
+***Input for Polishing Process***
+---Resin Volume Range Entered---
+Resin Volume Upper Limit : 0.04
+Resin Volume Lower Limit : 0.02
+
+Column Diameter Upper Limit :1.8
+Column Diameter Lower Limit :1.5
+
+Volumetric Flow Rate Upper Limit : 1.5
+Volumetric Flow Rate Lower Limit : 1.0
+
+***OUTPUT of Polishing Stage***
+Optimum Resin Volume:0.026000000536441803
+No. of cycles:2.795192250020847
+Equilibration 4 CVs:3.229999871651336
+loading time:6.666666401757144
+washing time:3.229999871651336
+elution 3 CV's time:8.074999216332689
+Regeneration 2 CV's time:1.614999935825668
+Product of this Process:0.5450624999999999
+Total Time:22.816665297218172
+Total Time for all the Process:
+Batches per Year40.82370276616018
+Total Proceess Yield:57.375
+total product per year22.25146948898018
+Revenue:2225.1469488980183
+
